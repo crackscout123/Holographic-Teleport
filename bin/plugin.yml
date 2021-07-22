@@ -1,0 +1,11 @@
+name: HolographicTeleport
+main: de.crackscout123.Main.Main
+version: 1.0.1
+
+commands:
+  tpa:
+    description: Sends a teleport request to a player
+    usage: /<command>
+  tpaccept:
+    description: Accepts the teleport request of a player
+    usage: /<command>
